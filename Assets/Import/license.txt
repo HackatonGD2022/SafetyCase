@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gachimuchi Room
+* source:	https://sketchfab.com/3d-models/gachimuchi-room-305e358f44234f4e8415708bb1603ba0
+* author:	Ghozali.Ghozalu (https://sketchfab.com/Ghozali.Ghozalu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gachimuchi Room" (https://sketchfab.com/3d-models/gachimuchi-room-305e358f44234f4e8415708bb1603ba0) by Ghozali.Ghozalu (https://sketchfab.com/Ghozali.Ghozalu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
